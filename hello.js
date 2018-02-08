@@ -1,1 +1,1 @@
-console.log("Witam Świat docker"!);
+console.log("Witam Świat docker!");
